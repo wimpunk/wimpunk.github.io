@@ -1,3 +1,7 @@
+---
+title: Notes when resetting my phone
+---
+
 # Planning to reset my phone
 
 * how to backup
