@@ -1,5 +1,6 @@
 ---
 title: Notes when resetting my phone
+layout: default
 ---
 
 # Planning to reset my phone
