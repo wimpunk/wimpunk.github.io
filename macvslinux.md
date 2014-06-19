@@ -11,3 +11,5 @@ layout: default
 
 # Contra
 * The filesystem isn't case sensitive
+* Hamster is (currently) not working.  And I like it very much to do my
+  timetracking.
